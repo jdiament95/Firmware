@@ -89,4 +89,6 @@ set(config_module_list
 	platforms/common
 	platforms/nuttx
 	platforms/nuttx/px4_layer
+	
+	examples/px4_simple_app
 )
